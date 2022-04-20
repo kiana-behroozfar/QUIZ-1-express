@@ -1,0 +1,27 @@
+{
+  "name": "homework-of-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Quiz1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiana-behroozfar/homework-of-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiana-behroozfar/homework-of-express/issues"
+  },
+  "homepage": "https://github.com/kiana-behroozfar/homework-of-express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
